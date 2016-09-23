@@ -9,6 +9,10 @@ var members = {
             name: 'Joanne Boisson',
             alias: '喬安娜',
         },
+        {
+            name: '陳志杰',
+            alias: 'jjc',
+        },
     ],
     'Research Assistants': [
         {
@@ -18,13 +22,13 @@ var members = {
     ],
     'Master Students': [
         {
-            name: '葉玫慈',
-            alias: 'Mei-Cih',
-            research: 'Automatic Paraphrases Generation',
-            img: 'img/meichi.jpg',
-            bkg_color: '#DC143C',
-            intro: 'Ukulele是人生的一半(\'A`)',
-            link: 'https://youtu.be/z2Xsp0HMqf8',
+         name: '葉玫慈',
+         alias: 'Mei-Cih',
+         research: 'Automatic Paraphrases Generation',
+         img: 'img/meichi.jpg',
+         bkg_color: '#DC143C',
+         intro: 'Ukulele是人生的一半(\'A`)',
+         link: 'https://youtu.be/z2Xsp0HMqf8',
         },
         {
             name: '陳怡君',
@@ -54,22 +58,13 @@ var members = {
             link: 'https://youtu.be/83TjxZWFXVI',
         },
         {
-            name: '陳志杰',
-            alias: 'jjc',
-            research: '文法改錯、機器翻譯、同步樣式文法',
-            img: 'img/jjc.jpg',
-            bkg_color: '#36648B',
-            intro: '我是胖虎，我是孩子王',
-            link: 'https://youtu.be/Y-gGTPsLORY',
-        },
-        {
             name: '吳瑀瑄',
             alias: 'shanny',
-            research: '英文文法（動詞）偵錯與改錯',
+            research: '文法改錯',
             img: 'img/shanny.jpg',
             bkg_color: '#473C8B',
-            intro: '看到我請提醒我記得帶電源線和學生證 (￣３￣)a',
-            link: 'https://youtu.be/Xn676-fLq7I',
+            intro: '走啊，跑步！',
+            link: 'https://youtu.be/m99Py_8NtZE',
         },
         {
             name: '吳奇恩',
@@ -97,6 +92,42 @@ var members = {
             bkg_color: '#0d5b3c',
             intro: '在不斷的掙扎天空出現一道彩虹，在不斷的懷疑之後找到原來的我。',
             link: 'https://www.youtube.com/watch?v=pbLJxFBOs80'
+        },
+        {
+            name: '李巧雯',
+            alias: 'ChiaoWen',
+            research: '',
+            img: 'img/chiaowen.jpg',
+            bkg_color: '#f48a6e',
+            intro: '顆顆顆',
+            link: 'https://www.youtube.com/watch?v=iq_d8VSM0nw',
+        },
+        {
+            name: '林昌毅',
+            alias: 'Chungyilin',
+            research: '5 4 tusi be ba',
+            img: 'img/chungyilin.gif',
+            bkg_color: '#EEAD0E',
+            intro: '故人西辭黃鶴樓，煙花三月下揚州。 孤帆遠影碧空盡，唯見長江天際流。',
+            link: 'https://www.youtube.com/watch?v=HSHOU1OVbaY',
+        },
+        {
+            name: '彭成全',
+            alias: 'Zeno',
+            research: '',
+            img: 'img/zeno.jpg',
+            bkg_color: '#DC143C',
+            intro: 'なに',
+            link: 'https://www.youtube.com/watch?v=HAIDqt2aUek',
+        },
+        {
+            name: '程尚謙',
+            alias: 'Ashley',
+            research: '',
+            img: 'img/ashley.jpg',
+            bkg_color: '#FFC0CB',
+            intro: 'XDDDD',
+            link: '#',
         }
     ],
     'Undergraduates': [
